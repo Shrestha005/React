@@ -1,7 +1,13 @@
+import One from "./1"
+
 function App() {
 
   return (
-    <h1>React with vite | Shres</h1>
+    <>
+    <One/>
+    <h1>reacttttt is here</h1>
+    <p>test p tag</p>
+    </>
   )
 }
 
